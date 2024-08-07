@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "date": "^2.0.2",
+    "discord.js": "^14.9.0",
+    "moment-timezone": "^0.5.43"
+  }
+}
